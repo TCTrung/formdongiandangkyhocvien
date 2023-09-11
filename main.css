@@ -1,0 +1,17 @@
+.th {
+    background: lightskyblue;
+    color: blue;
+    text-align: left;
+}
+.day {
+    background: blanchedalmond;
+}
+.td {
+    color: blue;
+}
+table {
+    width: 400px;
+}
+.diachi {
+    vertical-align: top;
+}
